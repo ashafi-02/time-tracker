@@ -32,7 +32,7 @@
             <plugins>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-plugins</artifactId>
+                    <artifactId>maven-compilar-plugin</artifactId>
                     <version>40</version>
                     <configuration>
                         <verbose>true</verbose>
